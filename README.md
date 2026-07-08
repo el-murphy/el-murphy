@@ -2,12 +2,7 @@
 
 <div align="center">
 
-## 🚀 Développeur Full Stack Web
-
-Étudiant en Génie Logiciel et Base de Données à l'ENI Fianarantsoa 🇲🇬
-
-Je développe des applications web modernes, sécurisées et évolutives.
-Passionné par le développement logiciel, les architectures web et les bases de données.
+## 🚀 Développeur Full Stack
 
 </div>
 
@@ -15,15 +10,44 @@ Passionné par le développement logiciel, les architectures web et les bases de
 
 ## 🧑‍💻 À propos de moi
 
-- 🎓 Étudiant en Génie Logiciel et Base de Données
-- 💻 Développeur Full Stack Web
-- 🌱 Toujours en apprentissage de nouvelles technologies
-- 🗄️ Intéressé par la conception d'applications et la gestion des bases de données
-- 🚀 Objectif : devenir ingénieur logiciel
+- 🎓 Étudiant en Master 2 Génie Logiciel et Bases de Données.
+- 🗄️ Je crée des applications web et mobiles Android/iOS modernes.
+- 🌱 Toujours en apprentissage de nouvelles technologies.
 
 ---
 
-# 🛠️ Technologies & Outils
+# 🛠️ Mes compétences techniques
+
+## 💻 Langages de programmation
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br>
+Java
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="50"/><br>
+PHP
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎨 Frontend
 
 <div align="center">
 
@@ -41,18 +65,18 @@ CSS3
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
-JavaScript
+<img src="https://skillicons.dev/icons?i=jquery" width="50"/><br>
+jQuery
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vue" width="50"/><br>
-Vue.js
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
+Bootstrap
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
-React
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>
+Tailwind CSS
 </td>
 
 </tr>
@@ -60,14 +84,34 @@ React
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="50"/><br>
-PHP
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>
+Next.js
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>
-Laravel
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+React
 </td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vue" width="50"/><br>
+Vue.js
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## ⚙️ Backend
+
+<div align="center">
+
+<table>
+<tr>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
@@ -76,16 +120,50 @@ Node.js
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=express" width="50"/><br>
-Express
+Express.js
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="50"/><br>
-Java
+<img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>
+Laravel
 </td>
 
 </tr>
+</table>
 
+</div>
+
+---
+
+## 📱 Mobile
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+React Native
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=expo" width="50"/><br>
+Expo
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🗄️ Bases de données
+
+<div align="center">
+
+<table>
 <tr>
 
 <td align="center">
@@ -100,8 +178,22 @@ PostgreSQL
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=oracle" width="50"/><br>
-Oracle
+Oracle Database
 </td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Outils & DevOps
+
+<div align="center">
+
+<table>
+<tr>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
@@ -113,66 +205,25 @@ Git
 GitHub
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center">
 <img src="https://skillicons.dev/icons?i=docker" width="50"/><br>
 Docker
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
-VS Code
+<img src="https://skillicons.dev/icons?i=jenkins" width="50"/><br>
+Jenkins
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>
-Tailwind CSS
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
-Bootstrap
+<img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br>
+Kubernetes
 </td>
 
 </tr>
-
 </table>
 
 </div>
-
----
-
-# 🚀 Projets réalisés
-
-## 👨‍💼 Application de gestion des fonctionnaires
-
-**Stack :**
-- Vue.js
-- PHP
-- Oracle Database
-
-Fonctionnalités :
-- Gestion des utilisateurs
-- Gestion des agents
-- Gestion des retraites
-- Gestion des promotions
-- Authentification et gestion des rôles
-
----
-
-## 🚗 Application de gestion de vente automobile
-
-**Stack :**
-- PHP
-- MySQL
-
-Fonctionnalités :
-- CRUD complet
-- Gestion des véhicules
-- Génération de factures PDF
 
 ---
 
@@ -186,10 +237,6 @@ Fonctionnalités :
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
@@ -198,19 +245,11 @@ Fonctionnalités :
 
 <div align="center">
 
-💼 LinkedIn : Votre profil LinkedIn
+💼 LinkedIn : https://www.linkedin.com/in/andrianay-el-murphy-7a6581282/
 
-🌐 Portfolio : Votre site web
+🌐 Portfolio : En cours de développement
 
-📧 Email : Votre email
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Merci de visiter mon profil GitHub !
+📧 Email : andrianayelmurphy@gmail.com
 
 </div>
 
