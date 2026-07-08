@@ -1,10 +1,4 @@
-# 👋 Bonjour, je suis Murphy
-
-<div align="center">
-
-## 🚀 Développeur Full Stack
-
-</div>
+# 👋 Bonjour, je suis Murphy  🚀 Développeur Full Stack
 
 ---
 
@@ -148,7 +142,7 @@ React Native
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=expo" width="50"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="50"/><br>
 Expo
 </td>
 
@@ -177,7 +171,7 @@ PostgreSQL
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=oracle" width="50"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/><br>
 Oracle Database
 </td>
 
@@ -226,18 +220,6 @@ Kubernetes
 </div>
 
 ---
-
-# 📊 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
