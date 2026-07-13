@@ -4,8 +4,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 🎓 Étudiant en Master 2 Génie Logiciel et Bases de Données.
-- Je crée des applications web et mobiles Android/iOS modernes.
+- ⚡ Créateur d'applications web et mobiles Android/iOS moderne.
 - 🌱 Toujours en apprentissage de nouvelles technologies.
 
 ---
