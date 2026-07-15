@@ -68,8 +68,6 @@ Vue.js
 
 </div>
 
----
-
 ## ⚙️ Backend
 
 <div align="center">
