@@ -10,34 +10,6 @@
 ---
 
 # 🛠️ Mes compétences techniques
-
-## 💻 Langages de programmation
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="50"/><br>
-Java
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
-JavaScript
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="50"/><br>
-PHP
-</td>
-
-</tr>
-</table>
-
-</div>
-
 ---
 
 ## 🎨 Frontend
