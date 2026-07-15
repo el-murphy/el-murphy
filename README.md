@@ -10,7 +10,6 @@
 ---
 
 # 🛠️ Mes compétences techniques
----
 
 ## 🎨 Frontend
 
