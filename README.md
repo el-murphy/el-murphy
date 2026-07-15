@@ -82,7 +82,7 @@ Node.js
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=express" width="50"/><br>
-Express.js
+Express
 </td>
 
 <td align="center">
