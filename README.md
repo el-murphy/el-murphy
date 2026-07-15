@@ -95,7 +95,6 @@ Laravel
 
 </div>
 
----
 
 ## 📱 Mobile
 
@@ -119,7 +118,6 @@ Expo
 
 </div>
 
----
 
 ## 🗄️ Bases de données
 
