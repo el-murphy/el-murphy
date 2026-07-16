@@ -195,7 +195,7 @@ Kubernetes
 
 💼 LinkedIn : https://www.linkedin.com/in/andrianay-el-murphy-7a6581282/
 
-🌐 Portfolio : En cours de développement
+🌐 Portfolio : https://el-murphy.netlify.app/#services#projets
 
 📧 Email : andrianayelmurphy@gmail.com
 
