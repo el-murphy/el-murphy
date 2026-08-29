@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-- ⚡ Créateur d'applications web et mobiles Android/iOS moderne.
+- ⚡ Créateur d'applications modernes pour navigateurs web, Android et iOS.
 - 🌱 Toujours en apprentissage de nouvelles technologies.
 
 ---
