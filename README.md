@@ -193,7 +193,7 @@ Kubernetes
 
 <div align="center">
 
-💼 LinkedIn : https://www.linkedin.com/in/andrianay-el-murphy-7a6581282/
+💼 LinkedIn : www.linkedin.com/in/el-murphy-andrianay-7a6581282
 
 🌐 Portfolio : https://el-murphy.me/
 
