@@ -195,7 +195,7 @@ Kubernetes
 
 🌐 Portfolio : https://el-murphy.me/
 📧 Email : andrianayelmurphy@gmail.com
-☎️WhatsApp : https://wa.me/261347210503
+📞 WhatsApp : https://wa.me/261347210503
 
 </div>
 
