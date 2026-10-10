@@ -189,16 +189,6 @@ Kubernetes
 
 ---
 
-# 📫 Contact
-
-<div align="center">
-
-🌐 Portfolio : https://el-murphy.me/
-📧 Email : andrianayelmurphy@gmail.com
-📞 WhatsApp : https://wa.me/261347210503
-
-</div>
-
 <!--
 **el-murphy/el-murphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
