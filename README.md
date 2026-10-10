@@ -193,11 +193,9 @@ Kubernetes
 
 <div align="center">
 
-💼 LinkedIn : www.linkedin.com/in/el-murphy-andrianay-7a6581282
-
 🌐 Portfolio : https://el-murphy.me/
-
 📧 Email : andrianayelmurphy@gmail.com
+☎️WhatsApp : https://wa.me/261347210503
 
 </div>
 
